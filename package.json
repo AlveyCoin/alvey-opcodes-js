@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alveyproject/alvey-opcodes-js.git"
+    "url": "git+https://github.com/alveycoin/alvey-opcodes-js.git"
   },
   "keywords": [
     "alvey",
@@ -17,7 +17,7 @@
   "author": "Alvey Weiyu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/alveyproject/alvey-opcodes-js/issues"
+    "url": "https://github.com/alveycoin/alvey-opcodes-js/issues"
   },
-  "homepage": "https://github.com/alveyproject/alvey-opcodes-js#readme"
+  "homepage": "https://github.com/alveycoin/alvey-opcodes-js#readme"
 }
